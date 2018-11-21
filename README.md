@@ -11,10 +11,10 @@ This app has following features.
   
   
   To run the app follow below commands.
-   $ npm install -g react-native-cli   (installing react-native cli natively)
-   $  
-   $ npm install
-   $ react-native run-android
+   # npm install -g react-native-cli   (installing react-native cli natively)
+   #  
+   # npm install
+   # react-native run-android
    
 
       
