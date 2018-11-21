@@ -13,6 +13,8 @@
  ## To run the app follow below commands.
  ```
     npm install -g react-native-cli  
+    git clone https://github.com/Ravikumarsd/github_user_base.git
+    cd github_user_base
     npm install
     react-native run-android
  ```
