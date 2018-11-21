@@ -23,3 +23,4 @@
 ## To learn more about react-native visit:
     [react native](https://facebook.github.io/react-native/docs/getting-started).
       
+This site was built using [GitHub Pages](https://pages.github.com/).
