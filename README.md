@@ -5,15 +5,16 @@ This app lists the Github users Based on below conditions.
       2. Has at least one Repository
 
 This app has following features.
-  1. searchfilter
+  1. Searchfilter
   2. Inifinite Scrolling.  (Vertical Pagination)
   3. Pull to refresh.
   
   
   To run the app follow below commands.
-   1. npm install -g react-native-cli .   (installing react-native cli natively)
-   2. npm install
-   3. react-native run-android
+   $ npm install -g react-native-cli   (installing react-native cli natively)
+   $  
+   $ npm install
+   $ react-native run-android
    
 
       
