@@ -1,8 +1,9 @@
 # github_user_base
 
 ## This app lists the Github users Based on below conditions.
-       - Users based in Bangalore
-       - Has at least one Repository
+     
+       1. Users based in Bangalore
+       2. Has at least one Repository
 
 ## This app has following features.
    - Searchfilter
