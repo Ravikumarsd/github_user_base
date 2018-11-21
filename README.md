@@ -19,8 +19,5 @@
     $ npm install
     $ react-native run-android
  ```
-
-## To learn more about react-native visit:
-    [react native](https://facebook.github.io/react-native/docs/getting-started).
-      
-This site was built using [GitHub Pages](https://pages.github.com/).
+ 
+ To get more about react-native visit: [React Native](https://facebook.github.io/react-native/docs/getting-started).
