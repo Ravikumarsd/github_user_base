@@ -6,7 +6,7 @@
        2. Has at least one Repository
 
 ### This app has following features.
-   - Searchfilter
+   - Search filter
    - Inifinite Scrolling.  (Vertical Pagination)
    - Pull to refresh.
   
